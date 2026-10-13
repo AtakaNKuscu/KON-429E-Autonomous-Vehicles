@@ -1,0 +1,242 @@
+[
+  {
+    "source": "parameters.m",
+    "destination": "assignments/assignment-01/src/parameters.m",
+    "sha256": "aad57ebf73695fe730461c234e95dcfd0b656f9cd8f0a4dbc069d46bb46c7175",
+    "bytes": 950
+  },
+  {
+    "source": "sample_input.m",
+    "destination": "assignments/assignment-01/src/sample_input.m",
+    "sha256": "9bc928ba8e9564d33a5cf7248d934b4759053a4044fc6bc129ca55ed6cbe2a95",
+    "bytes": 1418
+  },
+  {
+    "source": "sample_input_b.m",
+    "destination": "assignments/assignment-01/src/sample_input_b.m",
+    "sha256": "c2d20078463b835e3584c947411db89bd5ee18bd46afe4318dfbb19e74adb0cf",
+    "bytes": 1287
+  },
+  {
+    "source": "sonuc.m",
+    "destination": "assignments/assignment-01/src/sonuc.m",
+    "sha256": "9b1c6cc6c15ab64bfe8e5554c5134740a8776c083a770cac2307572f2b16a21d",
+    "bytes": 4804
+  },
+  {
+    "source": "test.m",
+    "destination": "assignments/assignment-01/src/test.m",
+    "sha256": "e763c88d0e430c1929cd87d64b757fb3f0888979bfee023742d86d7534a7558a",
+    "bytes": 9739
+  },
+  {
+    "source": "hw1_model.slx",
+    "destination": "assignments/assignment-01/models/hw1_model.slx",
+    "sha256": "48b50c8ec1d00634658a287e3bfb86125dbece1ada86df6826647345a4a14901",
+    "bytes": 291657
+  },
+  {
+    "source": "Autonomous_Vehicles_HW1.pdf",
+    "destination": "assignments/assignment-01/reports/Autonomous_Vehicles_HW1.pdf",
+    "sha256": "4e50eaf543377c6b8faca46bdb3fe962221d78738a1599cae8227cd023f1b365",
+    "bytes": 1039576
+  },
+  {
+    "source": "ekf_init.m",
+    "destination": "assignments/assignment-02/src/ekf_init.m",
+    "sha256": "4b2ccdd4030babbe2f40b38afe6185df56552f0ec0690569509bcbbb30f0a53d",
+    "bytes": 758
+  },
+  {
+    "source": "ekf_comparison.m",
+    "destination": "assignments/assignment-02/src/ekf_comparison.m",
+    "sha256": "0909ce353af3ef08360753dbce698b6d762950f206d08c5e73bacc4344711479",
+    "bytes": 2083
+  },
+  {
+    "source": "plot_ekf_results_out.m",
+    "destination": "assignments/assignment-02/src/plot_ekf_results_out.m",
+    "sha256": "652ec9bde84e4796d850136d0618f56f80d81858a2973bd586a1cb25ea2fa4b1",
+    "bytes": 4335
+  },
+  {
+    "source": "hw2_model.slx",
+    "destination": "assignments/assignment-02/models/hw2_model.slx",
+    "sha256": "ef4f5b364fef9051e39469f7d7d0a8cc0d015f4692c87d73fd1d499a5ba17f18",
+    "bytes": 106827
+  },
+  {
+    "source": "Autonomous_Vehicles_HW2.pdf",
+    "destination": "assignments/assignment-02/reports/Autonomous_Vehicles_HW2.pdf",
+    "sha256": "428ed83deda70729486d6bae1d12390f4980e244f05a43e89e35e3fd288ba425",
+    "bytes": 848163
+  },
+  {
+    "source": "params_hw3.m",
+    "destination": "assignments/assignment-03/src/params_hw3.m",
+    "sha256": "3316038da7d56c8906203e13563d0738cf134f2e7b432dfd528af2c4867791a2",
+    "bytes": 849
+  },
+  {
+    "source": "hw3_plot.m",
+    "destination": "assignments/assignment-03/src/hw3_plot.m",
+    "sha256": "82ad31ea93d64fef14ccc64e4f13301d9eac40ba895be94c3264b2abfe59a63a",
+    "bytes": 10024
+  },
+  {
+    "source": "hw3_model.slx",
+    "destination": "assignments/assignment-03/models/hw3_model.slx",
+    "sha256": "8aad5be4a1c2ae84ffb0cd6d3a09660157ec9fedf8d9ea72c070609e9efddbaf",
+    "bytes": 98787
+  },
+  {
+    "source": "Autonomous_Vehicles_HW3.pdf",
+    "destination": "assignments/assignment-03/reports/Autonomous_Vehicles_HW3.pdf",
+    "sha256": "f33bc6a8f997b45e31d3d1aa7107126bf993bca82efa7c24199b3470b8b31208",
+    "bytes": 1001342
+  },
+  {
+    "source": "ekf_angle.jpg",
+    "destination": "assignments/assignment-02/figures/ekf_angle.jpg",
+    "sha256": "7a602ca06e4b8b7260e494f94a10957ab370045961fa2a873498474c8127375a",
+    "bytes": 51792
+  },
+  {
+    "source": "ekf_heading_error.jpg",
+    "destination": "assignments/assignment-02/figures/ekf_heading_error.jpg",
+    "sha256": "c898443b79e9df478db08e2a1b0d3cead988dabac1d785662001189ef0300afc",
+    "bytes": 43853
+  },
+  {
+    "source": "ekf_pos_error.jpg",
+    "destination": "assignments/assignment-02/figures/ekf_pos_error.jpg",
+    "sha256": "2b353cb234c7318a7dd6813cb3f7fa28ceec3161e02e25877783f86117ade277",
+    "bytes": 56085
+  },
+  {
+    "source": "ekf_pos_error_comp.jpg",
+    "destination": "assignments/assignment-02/figures/ekf_pos_error_comp.jpg",
+    "sha256": "d849ea4c66bf861fe07804a35de590ce94e575856a42b31b8b29b2cd35db21c0",
+    "bytes": 71111
+  },
+  {
+    "source": "ekf_traj.jpg",
+    "destination": "assignments/assignment-02/figures/ekf_traj.jpg",
+    "sha256": "8f2f0d697ba3d5d39254c35f2ce18b9ed08cfc88f465023ef62288dec929ad7a",
+    "bytes": 76598
+  },
+  {
+    "source": "ekf_traj_comp.jpg",
+    "destination": "assignments/assignment-02/figures/ekf_traj_comp.jpg",
+    "sha256": "91110e3b0c3e8f28f52f316423f8ab018ae6ddeb8603746253d176908401b167",
+    "bytes": 110783
+  },
+  {
+    "source": "hw3_frontangle.jpg",
+    "destination": "assignments/assignment-03/figures/hw3_frontangle.jpg",
+    "sha256": "98c0ca9ffe43e3589a5f1b888ca07d5e61a0db4e308933abec5d5ff66a813799",
+    "bytes": 99576
+  },
+  {
+    "source": "hw3_k_0.1.jpg",
+    "destination": "assignments/assignment-03/figures/hw3_k_0.1.jpg",
+    "sha256": "a69432a4e22cbeb3e83fb383b48dde8aa5a1bfd95cda8e8afa2282c8f015dd8d",
+    "bytes": 71902
+  },
+  {
+    "source": "hw3_k_0.4.jpg",
+    "destination": "assignments/assignment-03/figures/hw3_k_0.4.jpg",
+    "sha256": "6b38b2c4a30eace0eb175ef022248b24101c8340a10e340e85f650891df2b80f",
+    "bytes": 68654
+  },
+  {
+    "source": "hw3_k_1.jpg",
+    "destination": "assignments/assignment-03/figures/hw3_k_1.jpg",
+    "sha256": "52f9129aa83ecdd2ad189b0eb2330ee33841b38a8756b61f253747f2bf76fce0",
+    "bytes": 67660
+  },
+  {
+    "source": "hw3_k_10.jpg",
+    "destination": "assignments/assignment-03/figures/hw3_k_10.jpg",
+    "sha256": "242874c369f0b3570001973abdd3c0c55201c53a51981ba0b4b3ce64864eb02f",
+    "bytes": 68534
+  },
+  {
+    "source": "hw3_k_combined.jpg",
+    "destination": "assignments/assignment-03/figures/hw3_k_combined.jpg",
+    "sha256": "20e9b30a5080bc82d508f1dde1730c7917223b3d31930840e37a7790642d4d1c",
+    "bytes": 73637
+  },
+  {
+    "source": "hw3_steeringangle_combined.jpg",
+    "destination": "assignments/assignment-03/figures/hw3_steeringangle_combined.jpg",
+    "sha256": "1381d2d7fc66b6b827f32b687268dffb85fbf3b9e7c9d50afafd7c3c7c8dc607",
+    "bytes": 110746
+  },
+  {
+    "source": "hw3_theta_combined.jpg",
+    "destination": "assignments/assignment-03/figures/hw3_theta_combined.jpg",
+    "sha256": "487c5c488ff3bcc62bb9ac8c85d70c2593cbca26a6981c284e45538ed8f04018",
+    "bytes": 79819
+  },
+  {
+    "source": "partb_sideslip.jpg",
+    "destination": "assignments/assignment-01/figures/partb_sideslip.jpg",
+    "sha256": "647ae65a63094f1b0b717f4f143df7a47275fb9d5eba6ca8fb229156f32af2fd",
+    "bytes": 117263
+  },
+  {
+    "source": "partb_slipangle.jpg",
+    "destination": "assignments/assignment-01/figures/partb_slipangle.jpg",
+    "sha256": "185101128032ad6e39cbfed93bfd655b94c397fbeb468006fdb08747e40f59f8",
+    "bytes": 114711
+  },
+  {
+    "source": "partb_tireforce.jpg",
+    "destination": "assignments/assignment-01/figures/partb_tireforce.jpg",
+    "sha256": "a6757d790af385d87a6fc938e2f1edf16f1f193060d5a7127e8ebfd6345b0b32",
+    "bytes": 163340
+  },
+  {
+    "source": "trajectory.jpg",
+    "destination": "assignments/assignment-01/figures/trajectory.jpg",
+    "sha256": "20c6fcbe4acca79228f2189bff73ec215caa01755fafb2c094e78aca406c396e",
+    "bytes": 57177
+  },
+  {
+    "source": "velocity.jpg",
+    "destination": "assignments/assignment-01/figures/velocity.jpg",
+    "sha256": "13749a64d8d152a9cda4cf19b0570f800750255c217ef18ff0e2de0a37fd33af",
+    "bytes": 48511
+  },
+  {
+    "source": "x_coordinate.jpg",
+    "destination": "assignments/assignment-01/figures/x_coordinate.jpg",
+    "sha256": "7afa27e9f13fb7441952a997d14e61603f77931a5c31a85a01e927fd07cb7743",
+    "bytes": 49348
+  },
+  {
+    "source": "yaw_angle.jpg",
+    "destination": "assignments/assignment-01/figures/yaw_angle.jpg",
+    "sha256": "06e0bdafb9d646b9591ec3686ec6c1e831a94a05cbe218f4160ba6e13b9c913a",
+    "bytes": 45899
+  },
+  {
+    "source": "y_coordinate.jpg",
+    "destination": "assignments/assignment-01/figures/y_coordinate.jpg",
+    "sha256": "65fd40551b0bdb00c98d596506c538be8dcac71bd665e8a386078f61d524c18b",
+    "bytes": 49323
+  },
+  {
+    "source": "simulink_model.png",
+    "destination": "assignments/assignment-02/figures/simulink_model.png",
+    "sha256": "2138560b429606646ec28d200e9abd3d62ad7200d03105adab86aedd6ff426d3",
+    "bytes": 67622
+  },
+  {
+    "source": "hw2_ekf_data.mat",
+    "destination": "assignments/assignment-02/data/hw2_ekf_data.mat",
+    "sha256": "b762243fe27f30066f8ce73198f78b17010185d4e8e5b9dc68ac0e50ce75dad6",
+    "bytes": 5565
+  }
+]

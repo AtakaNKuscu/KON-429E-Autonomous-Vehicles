@@ -1,0 +1,32 @@
+# MATLAB / Simulink generated files
+*.asv
+*.autosave
+*.original
+*.m~
+*.mex*
+*.slxc
+slprj/
+codegen/
+*.log
+*.diary
+
+# Local simulation outputs; curated data/ and figures/ stay tracked
+/assignments/assignment-*/*.mat
+/assignments/assignment-*/*.jpg
+/assignments/assignment-*/*.png
+/assignments/assignment-*/figures_*/
+
+# Secrets and local tooling
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+.verification/
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+__pycache__/
+*.zip
